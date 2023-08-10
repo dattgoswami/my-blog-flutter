@@ -41,4 +41,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-The News Summary Generator is open-source software licensed under the MIT license.
+The Blog Posts Flutter App is open-source software licensed under the MIT license.
